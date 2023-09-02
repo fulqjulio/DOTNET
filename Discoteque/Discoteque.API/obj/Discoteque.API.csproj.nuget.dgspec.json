@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj": {}
+    "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj": {
+    "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
         "projectName": "Discoteque.API",
-        "projectPath": "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
+        "projectPath": "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.API\\obj\\",
+        "outputPath": "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj": {
-                "projectPath": "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj"
+              "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj": {
+                "projectPath": "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj"
               },
-              "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
-                "projectPath": "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj"
+              "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
+                "projectPath": "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj"
               }
             }
           }
@@ -54,7 +54,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.8, )"
+              "version": "[7.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -108,14 +108,14 @@
         }
       }
     },
-    "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj": {
+    "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj",
         "projectName": "Discoteque.Business",
-        "projectPath": "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj",
+        "projectPath": "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.Business\\obj\\",
+        "outputPath": "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -136,8 +136,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
-                "projectPath": "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj"
+              "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
+                "projectPath": "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj"
               }
             }
           }
@@ -171,14 +171,14 @@
         }
       }
     },
-    "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
+    "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
         "projectName": "Discoteque.Data",
-        "projectPath": "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
+        "projectPath": "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Documents\\DOTNET\\DOTNET\\Discoteque\\Discoteque.Data\\obj\\",
+        "outputPath": "c:\\Users\\user\\Documents\\DOTNET\\Discoteque\\Discoteque.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -211,6 +211,16 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[7.0.9, )"

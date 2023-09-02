@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discoteque.API", "Discoteque.API\Discoteque.API.csproj", "{8D1E180A-879D-4D72-8DF4-EE15197ADAE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discoteque.API", "Discoteque.API\Discoteque.API.csproj", "{6965BBB8-065D-48E4-BF58-861C0A5277D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discoteque.Business", "Discoteque.Business\Discoteque.Business.csproj", "{B474FB47-98A6-4B6B-9AC7-70A2509FD721}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discoteque.Business", "Discoteque.Business\Discoteque.Business.csproj", "{CC791DE7-749B-4231-9A72-24F973E74B93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discoteque.Data", "Discoteque.Data\Discoteque.Data.csproj", "{46F20222-DB17-4B5B-BB73-31D885839B52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discoteque.Data", "Discoteque.Data\Discoteque.Data.csproj", "{76D5421C-AA28-4129-9DCA-936FBB2003C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discoteque.Tests", "Discoteque.Tests\Discoteque.Tests.csproj", "{31030040-E943-4D09-AB2B-4E1BA59918E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,17 +20,21 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8D1E180A-879D-4D72-8DF4-EE15197ADAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8D1E180A-879D-4D72-8DF4-EE15197ADAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8D1E180A-879D-4D72-8DF4-EE15197ADAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8D1E180A-879D-4D72-8DF4-EE15197ADAE6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B474FB47-98A6-4B6B-9AC7-70A2509FD721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B474FB47-98A6-4B6B-9AC7-70A2509FD721}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B474FB47-98A6-4B6B-9AC7-70A2509FD721}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B474FB47-98A6-4B6B-9AC7-70A2509FD721}.Release|Any CPU.Build.0 = Release|Any CPU
-		{46F20222-DB17-4B5B-BB73-31D885839B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{46F20222-DB17-4B5B-BB73-31D885839B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{46F20222-DB17-4B5B-BB73-31D885839B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{46F20222-DB17-4B5B-BB73-31D885839B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6965BBB8-065D-48E4-BF58-861C0A5277D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6965BBB8-065D-48E4-BF58-861C0A5277D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6965BBB8-065D-48E4-BF58-861C0A5277D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6965BBB8-065D-48E4-BF58-861C0A5277D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC791DE7-749B-4231-9A72-24F973E74B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC791DE7-749B-4231-9A72-24F973E74B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC791DE7-749B-4231-9A72-24F973E74B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC791DE7-749B-4231-9A72-24F973E74B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D5421C-AA28-4129-9DCA-936FBB2003C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D5421C-AA28-4129-9DCA-936FBB2003C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D5421C-AA28-4129-9DCA-936FBB2003C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D5421C-AA28-4129-9DCA-936FBB2003C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31030040-E943-4D09-AB2B-4E1BA59918E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31030040-E943-4D09-AB2B-4E1BA59918E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31030040-E943-4D09-AB2B-4E1BA59918E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31030040-E943-4D09-AB2B-4E1BA59918E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
